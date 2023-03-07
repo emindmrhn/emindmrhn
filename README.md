@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Muhammed Emin Demirhan
+### Hi there 👋
 ### Jr. Software Developer & Security 👨‍💻
 #
 #### Internet & Network Tech Student at Ankara University 📚
