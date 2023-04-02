@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Jr. Software Developer & Security 👨‍💻
+### Jr. Software Developer & Jr. Pentester 👨‍💻
 #
 #### Internet & Network Tech Student at Ankara University 📚
 #
